@@ -169,12 +169,12 @@ $gtotal = 0;
         </div>
         <br>
 <h1 class="text-center">Grand Total: &#8377;<?php echo "$gtotal"; ?>/-</h1>
-<h5 class="text-center">including all service charges. (no delivery charges applied)</h5>
+<h5 class="text-center">including all service charges. (no taxes added)</h5>
 <br>
 <h1 class="text-center">
   <a href="cart.php"><button class="btn btn-warning"><span class="glyphicon glyphicon-circle-arrow-left"></span> Go back to cart</button></a>
   <a href="onlinepay.php"><button class="btn btn-success"><span class="glyphicon glyphicon-credit-card"></span> Pay Online</button></a>
-  <a href="COD.php"><button class="btn btn-success"><span class="glyphicon glyphicon-"></span> Cash On Delivery</button></a>
+  <a href="COD.php"><button class="btn btn-success"><span class="glyphicon glyphicon-"></span> Offline Payment</button></a>
 </h1>
         
 
